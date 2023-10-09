@@ -1,4 +1,4 @@
-## DS 7200 Computing III Distributed Computing: Agenda 04
+## DS 7200 Computing III Distributed Computing: Agenda 10
 
 
 ### Deliverables This Week
@@ -11,13 +11,13 @@
 
 
 - Lab on Supervised Learning
+- Journal: Modules 1-4
 
 ---
 
-### Spark SQL and DataFrames
+### Spark MLlib
 
-- Review Sparsity NB
-- Review Classification NB
 - Review Regression NB
+- Time to work on lab, project
 
 
