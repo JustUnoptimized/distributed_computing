@@ -1,0 +1,6 @@
+remote (named upstream) is from https://github.com/UVADS/distributed_computing/
+
+to pull updates:
+
+git pull upstream main
+
